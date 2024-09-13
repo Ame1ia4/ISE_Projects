@@ -1,0 +1,13 @@
+{
+    "song1": {
+        "data": "0078000408020103001c0001dc00690000045e010004000000000000000000000500000100000314000000040002162220002400012930003400021124",
+        "mimeType": "application/mkcd-song",
+        "displayName": "Turtle",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
